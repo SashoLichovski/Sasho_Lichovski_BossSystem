@@ -1,0 +1,9 @@
+﻿@model BossSystem.ViewModels.UserDetailsModel
+
+<div class="container">
+    <h1>User details</h1>
+    <br />
+    <p><h4>Username: </h4> @Model.Username [<a asp-controller="User" asp-action="ChangeUsername" asp-route-id="@Model.Id">change</a>]</p>
+    <p><h4>Password: </h4> ******** [<a asp-controller="User" asp-action="ChangePassword" asp-route-id="@Model.Id">change</a>]</p>
+    <p><h4>Account: </h4> @Model.Account [<a asp-controller="User" asp-action="Deposit">Deposit</a>]</p>
+</div>

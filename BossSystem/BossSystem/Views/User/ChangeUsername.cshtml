@@ -1,0 +1,11 @@
+﻿@model BossSystem.ViewModels.ChangeUsernameModel
+
+<form class="formContainer" asp-controller="User" asp-action="ChangeUsername">
+    <input placeholder="Username" asp-for="Username" class="form-control" />
+    <input type="hidden" asp-for="Id" class="form-control" />
+    <input type="hidden" asp-for="Password" class="form-control" />
+
+    <input class="btn btn-dark text-light" value="Change" type="submit">
+
+</form>
+<div asp-validation-summary="All" class="text-danger" style="position: absolute;"></div>

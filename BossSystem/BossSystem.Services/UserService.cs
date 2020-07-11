@@ -20,5 +20,36 @@ namespace BossSystem.Services
         {
             return userRepository.GetAll();
         }
+
+        public User GetCurrentUser(int id)
+        {
+            return userRepository.GetUserById(id);
+        }
+        public bool UpdateUsername(User user, string newUsername)
+        {
+            var iUser = userRepository.GetUserById(user.Id);
+            var checkUsername = userRepository.GetUserByUsername(newUsername);
+            if (checkUsername == null)
+            {
+                iUser.Username = newUsername;
+                userRepository.UpdateUser(iUser);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        public void UpdatePassword(User user, string newPassword)
+        {
+            user.Password = BCrypt.Net.BCrypt.HashPassword(newPassword);
+            userRepository.UpdateUser(user);
+        }
+
+        public void Deposit(User user, double amount)
+        {
+            user.Account += amount;
+            userRepository.UpdateUser(user);
+        }
     }
 }
