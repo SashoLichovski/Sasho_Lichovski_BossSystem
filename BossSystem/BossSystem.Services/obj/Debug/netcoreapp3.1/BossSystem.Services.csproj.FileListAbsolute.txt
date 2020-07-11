@@ -1,0 +1,17 @@
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Data.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Repositories.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.csprojAssemblyReference.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Services.deps.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Services.runtimeconfig.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Services.runtimeconfig.dev.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Services.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Services.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Repositories.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\bin\Debug\netcoreapp3.1\BossSystem.Data.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.csproj.CopyComplete
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Services\obj\Debug\netcoreapp3.1\BossSystem.Services.csproj.CoreCompileInputs.cache

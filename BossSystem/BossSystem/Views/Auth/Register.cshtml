@@ -1,0 +1,21 @@
+﻿@model BossSystem.ViewModels.RegisterUserModel
+@{
+    <style>
+        .container form {
+            width: 500px;
+            margin: auto;
+        }
+    </style>
+}
+<dvi class="container">
+    <form asp-controller="Auth" asp-action="Register">
+        <input placeholder="Username" asp-for="Username" class="form-control" />
+        <br />
+        <input placeholder="Password" asp-for="Password" class="form-control" />
+        <br />
+        <input placeholder="Confirm password" asp-for="ConfirmPassword" class="form-control" />
+        <br />
+        <input class="btn btn-dark text-light" value="Sign up" type="submit">
+    </form>
+    <div asp-validation-summary="All" class="text-danger" style="position: absolute;"></div>
+</dvi>

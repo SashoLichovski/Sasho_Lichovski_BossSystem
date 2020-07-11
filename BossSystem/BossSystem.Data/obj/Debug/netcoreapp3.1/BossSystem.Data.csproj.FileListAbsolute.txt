@@ -1,0 +1,12 @@
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\bin\Debug\netcoreapp3.1\BossSystem.Data.deps.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\bin\Debug\netcoreapp3.1\BossSystem.Data.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.csprojAssemblyReference.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\bin\Debug\netcoreapp3.1\BossSystem.Data.runtimeconfig.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\bin\Debug\netcoreapp3.1\BossSystem.Data.runtimeconfig.dev.json
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\bin\Debug\netcoreapp3.1\BossSystem.Data.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.dll
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.pdb
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\Sasho_Lichovski_BossSystem\Sasho_Lichovski_BossSystem\BossSystem\BossSystem.Data\obj\Debug\netcoreapp3.1\BossSystem.Data.csproj.CoreCompileInputs.cache
